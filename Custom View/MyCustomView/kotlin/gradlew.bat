@@ -1,4 +1,4 @@
-@if "%DEBUG%" == "" @echo off
+include ':app'@if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
 @rem  Gradle startup script for Windows
